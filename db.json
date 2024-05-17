@@ -1,0 +1,67 @@
+{
+  "profesores": [
+    {
+      "nombre": "Omar",
+      "apellido": "Jimenez Flores",
+      "materias": [
+        {
+          "nombre": "Angular"
+        },
+        {
+          "nombre": "JavaScript"
+        }
+      ],
+      "id": "cc39"
+    },
+    {
+      "id": "fc78",
+      "nombre": "Aldair",
+      "apellido": "Jimenez",
+      "materias": [
+        {
+          "nombre": "Seguridad"
+        },
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Hacker"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodirguez",
+      "promedio": 8.2,
+      "id": "e7fd"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storini",
+      "promedio": 10,
+      "id": "af53"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde 0",
+      "duración": "7:00:00",
+      "dificultad": "intermedia",
+      "id": "e0ad"
+    },
+    {
+      "nombre": "Angular",
+      "duración": "5:00:00",
+      "dificultad": "intermedia",
+      "id": "4030"
+    },
+    {
+      "nombre": "React",
+      "duración": "9:00:00",
+      "dificultad": "intermedia",
+      "id": "9d74"
+    }
+  ]
+}
